@@ -44,6 +44,13 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mswapnil218@gmail.com)
 
 
+## ‍🎃 Coding Profile:
+
+[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/SwapnilMk/)
+[![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/swapnil_dev)
+
+
+
 ## ♨ Languages and Tools:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -75,23 +82,22 @@
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
 
 
+## 🏆 Trophies:
 
-### Badges
+<a href="https://github.com/ryo-ma/github-profile-trophy"></a>
+<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=swapnilMk&row=4&theme=onedark&no-frame=true" />
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/SwapnilMk"><img src="https://github-readme-stats.vercel.app/api?username=SwapnilMk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SwapnilMk's GitHub stats" /></a>
+## <img style="vertical-align: sub" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=22&lines=%F0%9F%92%96" alt="Typing SVG" /> Popular Repository:
 
-<a href="http://www.github.com/SwapnilMk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SwapnilMk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align="center"><a href="https://github.com/SwapnilMk/techtea">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swapnilMk&repo=techtea&cache_seconds=86400&theme=radical" alt="techtea Repository" />
+</a></div>
 
-<a href="http://www.github.com/SwapnilMk"><img src="https://activity-graph.herokuapp.com/graph?username=SwapnilMk&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=24&lines=%F0%9F%92%AB" alt="Typing SVG" /> Github Stats:
 
-<a href="https://github.com/SwapnilMk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilMk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=swapnilMk&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" alt="Github Stats" /></div>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/SwapnilMk/Tech-tea" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SwapnilMk&repo=Tech-tea&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/SwapnilMk/personal-portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SwapnilMk&repo=personal-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-### Support Me
-
+## Support Me
 <a href="https://www.buymeacoffee.com/mswapnilmk"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
