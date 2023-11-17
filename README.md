@@ -19,7 +19,7 @@
 ###
 🌍  I'm Swapnil, based in India, and I'm passionate about coding and technology.
 
-🔭 I’m currently working on **<a href="https://github.com/SwapnilMk/techtea">Techtea</a>** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
+🔭 I’m currently working on **<a href="https://github.com/SwapnilMk/techtea" target="_blank">Techtea</a>** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
 💻 All of my projects are available at **[My Portfolio](https://swapy-portfolio.netlify.app/)**
 
@@ -33,7 +33,7 @@
 
 🤝  I'm open to collaborating on interesting projects. If you have a project idea or need a hand, let's connect and make something great together!
 
-✉️  Feel free to reach out to me at <a href="mailto:mswapnil218@gmail.com">mswapnil218@gmail.com</a>
+✉️  Feel free to reach out to me at <a href="mailto:mswapnil218@gmail.com" target="_blank">mswapnil218@gmail.com</a>
 
 ###
 
@@ -90,7 +90,7 @@
 
 ## <img style="vertical-align: sub" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=22&lines=%F0%9F%92%96" alt="Typing SVG" /> Popular Repository:
 
-<div align="center"><a href="https://github.com/SwapnilMk/techtea">
+<div align="center"><a href="https://github.com/SwapnilMk/techtea" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swapnilMk&repo=techtea&cache_seconds=86400&theme=radical" alt="techtea Repository" />
 </a></div>
 
@@ -100,4 +100,4 @@
 
 
 ## Support Me
-<a href="https://www.buymeacoffee.com/mswapnilmk"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/mswapnilmk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
