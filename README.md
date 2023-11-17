@@ -14,19 +14,36 @@
 <img src="./Assets/Dev_banner.png" alt="Front End Developer Banner" />
 <br/>
 
-
-<p align="left">My name is Swapnil and I'm a React dev from Mumbai</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
+🌍  I'm Swapnil, based in India, and I'm passionate about coding and technology.
 
-<p align="left">🌍  I'm Swapnil, based in India, and I'm passionate about coding and technology.<br><br>🖥️  Explore my work in my <a href="https://swapy-portfolio.netlify.app/">portfolio</a><br><br>✉️  Feel free to reach out to me at <a href="mailto:mswapnil218@gmail.com">mswapnil218@gmail.com</a>
-<br><br>🚀  I'm currently working on zencommerce india, where I'm contributing as a frontend web developer <br><br>🧠  I'm actively learning and experimenting with JavaScript frameworks, with a particular focus on ReactJs. I'm excited about building interactive and dynamic web applications.works<br><br>🤝  I'm open to collaborating on interesting projects. If you have a project idea or need a hand, let's connect and make something great together!<br><br>🎯  My goals:<br>   - Master Next.js and build production-ready applications with it.<br>   - Contribute to open-source projects that align with my interests.<br>   - Continuously improve my problem-solving and coding skills.<br><br>🎲  Fun fact: I'm an avid game enthusiast. When I'm not coding, you can often find me strategizing and having a great time playing games with friends and family.</p>
+🔭 I’m currently working on **<a href="https://github.com/SwapnilMk/techtea">Techtea</a>** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
+
+💻 All of my projects are available at **[My Portfolio](https://swapy-portfolio.netlify.app/)**
+
+💬 Ask me about **Frontend Development**
+
+💗 Love to talk about **Research and Innovation!**
+  
+🧠  I'm actively learning and experimenting with JavaScript frameworks, with a particular focus on ReactJs. I'm excited about building interactive and dynamic web applications.works
+
+🎯  My goals:<br>   - Master Next.js and build production-ready applications with it.<br>   - Contribute to open-source projects that align with my interests.<br>   - Continuously improve my problem-solving and coding skills.<br><br>🎲  Fun fact: I'm an avid game enthusiast. When I'm not coding, you can often find me strategizing and having a great time playing games with friends and family.</p>
+
+🤝  I'm open to collaborating on interesting projects. If you have a project idea or need a hand, let's connect and make something great together!
+
+✉️  Feel free to reach out to me at <a href="mailto:mswapnil218@gmail.com">mswapnil218@gmail.com</a>
 
 ###
+
+
+
+
+
+
+
+
 
 <h2 align="left">I code with</h2>
 
