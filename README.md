@@ -1,6 +1,19 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align='center'>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&vCenter=true&random=false&width=700&height=80&lines=%E2%9C%A8+Hey%2C+I'm+Swapnil.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
+</h1>
 
-###
+<h3 align='center'>
+  A passionate Frontend Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="18" />
+</h3>
+
+
+<div align='center'>
+  <img src="https://komarev.com/ghpvc/?username=SwapnilMk&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+<br/>
+<img src="./Assets/Dev_banner.png" alt="Front End Developer Banner" />
+<br/>
+
 
 <p align="left">My name is Swapnil and I'm a React dev from Mumbai</p>
 
