@@ -21,7 +21,7 @@
 
 🔭 I’m currently working on **<a href="https://github.com/SwapnilMk/techtea" target="_blank">Techtea</a>** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
-💻 All of my projects are available at **[My Portfolio](https://swapy-portfolio.netlify.app/)**
+💻 All of my projects are available at **[My Portfolio](https://swapnil-portfolioweb.netlify.app/)**
 
 💬 Ask me about **Frontend Development**
 
